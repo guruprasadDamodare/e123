@@ -1,0 +1,27 @@
+.heading{
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px red;
+}
+.badminton{
+    font-size: 15px;
+    color:black
+}
+.shotter{
+    background-color: brown;
+    width:100%;
+    color:aqua;
+    position:fixed;
+    bottom: 0mm;
+    text-align: center;
+    line-height: 3;
+}
+canvas{
+    border:2px dotted red;
+}
+
+body{
+    background-image: url("no school tommorow.jpg");
+    background-size:cover;
+}
